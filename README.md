@@ -25,5 +25,3 @@ La solución debe cumplir con los siguientes requisitos:
 * Para imprimir por pantalla, sobrescribir el método `toString()`.
 
 Cualquier solución que no cumpla con estos requisitos será descartada, así que revisa bien!
-
-Por favor, enviar un ZIP con los fuentes de la solución. Cualquier consulta no duden en preguntar a candidatos@connectis-ict.com.ar
